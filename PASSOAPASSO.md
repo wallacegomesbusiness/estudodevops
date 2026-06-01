@@ -13,3 +13,4 @@ Adicionar ao projeto
 - git ckeckout // Altera a branch
 - -b testes // Cria a branch testes
 - git branch origin testes // Envia os arquivos para a branch informada
+- git merge // Esse comando apenas especificando a branch para poder puxar as informações
