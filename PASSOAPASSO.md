@@ -14,3 +14,5 @@ Adicionar ao projeto
 - -b testes // Cria a branch testes
 - git branch origin testes // Envia os arquivos para a branch informada
 - git merge // Esse comando apenas especificando a branch para poder puxar as informações
+- git branch -D nome_branch // Nesse comando excluimos a branch que queremos excluir
+- git push origin testes --delete // Esse comando agora estamos removendo do github
