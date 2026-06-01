@@ -16,3 +16,14 @@ Adicionar ao projeto
 - git merge // Esse comando apenas especificando a branch para poder puxar as informações
 - git branch -D nome_branch // Nesse comando excluimos a branch que queremos excluir
 - git push origin testes --delete // Esse comando agora estamos removendo do github
+
+# Trabalhando com issues e pullrequest
+
+1. Passos
+
+- Criamos uma branch nova
+- Após isso subimo no repositorio github
+- Cria uma issues do que precisa ser realizado
+- realizamos a alteração em nosso arquivo, e subimos para o repositorio
+- depois realizar a pull request para realizar a transferencia do arquivo e em seguida deletar a branch
+- Não esquecendo de colocar o FIX -# para poder escolher a issuer que precisar ser fechada
