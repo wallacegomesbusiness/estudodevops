@@ -12,3 +12,4 @@ Adicionar ao projeto
 - git branch // Informa quais são as branchs que temos no nosso projeto
 - git ckeckout // Altera a branch
 - -b testes // Cria a branch testes
+- git branch origin testes // Envia os arquivos para a branch informada
