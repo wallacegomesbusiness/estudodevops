@@ -27,3 +27,5 @@ Adicionar ao projeto
 - realizamos a alteração em nosso arquivo, e subimos para o repositorio
 - depois realizar a pull request para realizar a transferencia do arquivo e em seguida deletar a branch
 - Não esquecendo de colocar o FIX -# para poder escolher a issuer que precisar ser fechada
+
+# CI - Integração Continua
